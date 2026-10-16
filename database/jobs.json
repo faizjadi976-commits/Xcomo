@@ -1313,7 +1313,8 @@
     "user_id": 2048950525,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-10-16T11:22:45.493Z"
+    "status": "failed",
+    "created_at": "2026-10-16T11:22:45.493Z",
+    "completed_at": "2026-10-16T11:28:01.160Z"
   }
 }
