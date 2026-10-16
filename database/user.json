@@ -358,5 +358,14 @@
     "joinedAt": "2026-08-15T09:56:20.845Z",
     "lastSeenAt": "2026-08-15T09:56:20.845Z",
     "startCount": 1
+  },
+  "8927199544": {
+    "id": 8927199544,
+    "username": null,
+    "first_name": "Anonim",
+    "last_name": null,
+    "joinedAt": "2026-10-16T11:23:17.702Z",
+    "lastSeenAt": "2026-10-16T11:23:17.702Z",
+    "startCount": 1
   }
 }
