@@ -110,11 +110,11 @@
   "2048950525": {
     "id": 2048950525,
     "username": "Ibanz",
-    "first_name": "ᯓ 𝘽𝘼𝙉𝙕 𒈔 [ OPEN ]",
+    "first_name": "ᯓ 𝘽𝘼𝙉𝙕 𒈔 [ OFF ]",
     "last_name": null,
     "joinedAt": "2026-10-16T11:21:28.139Z",
-    "lastSeenAt": "2026-10-16T11:21:28.139Z",
-    "startCount": 1
+    "lastSeenAt": "2026-10-17T04:43:46.465Z",
+    "startCount": 2
   },
   "2114428721": {
     "id": 2114428721,
@@ -366,6 +366,15 @@
     "last_name": null,
     "joinedAt": "2026-10-16T11:23:17.702Z",
     "lastSeenAt": "2026-10-16T11:23:17.702Z",
+    "startCount": 1
+  },
+  "8306752132": {
+    "id": 8306752132,
+    "username": "Rafzzxxxx",
+    "first_name": "Rafzxx|𝐕𝐄𝐍𝐈𝐗|ꜱꜱᴛ",
+    "last_name": null,
+    "joinedAt": "2026-10-16T11:37:45.474Z",
+    "lastSeenAt": "2026-10-16T11:37:45.474Z",
     "startCount": 1
   }
 }
