@@ -796,5 +796,19 @@
     "amount": 1,
     "reason": "Rename Domain",
     "at": "2026-10-17T10:54:02.641Z"
+  },
+  {
+    "userId": 8927199544,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-10-17T11:05:46.838Z"
+  },
+  {
+    "userId": 8927199544,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-10-17T11:07:01.291Z"
   }
 ]
